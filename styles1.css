@@ -1,0 +1,79 @@
+h1{
+    background-image: url("mg3.jpg");
+    line-height: 1.2;
+    height: 50px;
+    color:green;
+    text-align: center;
+    padding-top: 10px;
+ } 
+ h2{
+    color:green; 
+    text-align: center;
+ }
+ body {
+    text-align: center; /* Center align all content within the body */
+  }
+frame {
+    display: inline-block; 
+     padding: 10px; 
+    align-items: center;
+  }
+.frame {
+    
+    background-color: rgb(246, 249, 249);
+    padding: 10px;
+  
+    align-items: center;
+}
+.frame1{
+background-color: rgb(231, 184, 114);
+padding: 10px;
+border: solid black;
+border-radius: 20%;
+
+}
+.frame2{
+background-color: rgb(110, 188, 216) ;
+padding: 10px;
+border: solid black;
+border-radius: 20%;
+}
+.myBlockquote {
+    color: #333; 
+    background-color: #f9f9f9; 
+    padding: 20px;
+    border-left: 5px solid #ccc; 
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border: 10px solid black;
+}
+
+.myBlockquote q {
+    font-style: italic; 
+ } 
+
+q{
+    color:black; 
+    text-align: center;
+    border-left: 5px;
+    font-style: italic;
+    font-family: cursive;
+   
+     
+
+ }
+
+ .qborder{
+    border: 5px solid black;
+    box-shadow: 0 0 20px green;
+    
+ }
+
+ footer{
+  background-image: url("mg3.jpg");
+  color:  green;
+ }
+ video{
+  padding: 10px;
+border: solid black;
+border-spacing: 20px;
+ }
